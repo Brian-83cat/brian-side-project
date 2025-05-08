@@ -24,13 +24,7 @@
 ## 圖片範例
 以下是流程圖：
 
-![流程圖](images/diagram.png)
-
-## Draw.io 檔案連結
-點擊以下連結查看 Draw.io 檔案：
-
-[查看 Draw.io 圖表](diagram.drawio)
-
+![流程圖](UML.png)
 
 ## 規格說明
 基礎功能 (HW2-1)
