@@ -1,6 +1,6 @@
 <div align="center"><a name="readme-top"></a>
   
-# [銀行ATM系統模擬 (C++)]
+# [銀行ATM系統模擬]
 </div>
 
 ## 專案概述
